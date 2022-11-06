@@ -2,7 +2,7 @@
 ## How to Install
 *  Download xDreammsAIO to any folder
 *  Click Install new assembly on EnsoulSharp
-*  Click Local field and select the folder FerrisAIO.esplugin is in (It will show an empty folder when you click it)
+*  Click Local field and select the folder xDreammsAIO is in (It will show an empty folder when you click it)
 *  Click add and your good to go
 *  Gif example https://gyazo.com/2f02ea8dcf3a7e44d93abc82305c1d54
 
