@@ -1,13 +1,4 @@
 # xDreammsAIO
-**How to Install**
-
-    - Local:
-        + Download xDreammsAIO to any folder
-        + Click Install new assembly on EnsoulSharp
-        + Click Local field and select the folder xDreammsAIO is in
-        + Click add and your good to go
-        + Gif example https://gyazo.com/2f02ea8dcf3a7e44d93abc82305c1d54
-
 Champion
 
         * Ezreal, Jinx, Viktor, Ahri, Cassiopeia, Kaisa, Kassadin, Leblanc
