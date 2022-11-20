@@ -1,12 +1,7 @@
 # xDreammsAIO
 Champion
 
-        * Ezreal, Jinx, Viktor, Ahri, Cassiopeia, Kaisa, Kassadin, Leblanc
-        * Sylas, Varus, Xayah, Katarina, Syndra, Vi, Zed, Hecarim, Vladimir
-        * Brand, Jayce, Vatne, Illaoi, Rengar, Taliyah, Graves, Kalista
-        * Zyra, LeeSin, Kled, Twitch, Fiora, Yasuo, Irelia, Lucian
-        * Ashe, Tristana, Riven, TwistedFate, Corki, KogMaw, Diana
-        * Quinn, Xerath
+* Kaisa, Vayne, Aphelios, Jinx, Twitch, KogMaw, Samira, Ashe, Caitlyn, Varus, Draven, Tristana, Yasuo, TwistedFate, Irelia, Gwen, Lucian, Katarina, Sett, DrMundo, Riven, Xayah, Ezreal, Sylas, Akshan, Yone, Pyke, Viego, Senna, Fiora, Corki, Xerath, Viktor, Cassiopeia, Camille, Leblanc, Aatrox, Zed, LeeSin, Sivir, Karthus, Evelynn, MissFortune, Udyr, Urgot, Kennen, Gangplank, Chogath, Jhin, Ryze, Vex, Swain, Akali, Graves, Warwick, Brand, Zeri, Rengar, Zilean, XinZhao, Kindred, Blitzcrank, Nilah.
 Utility
 
         * BaseUlt
